@@ -1,19 +1,19 @@
-# Quiz App
+# 🧠 Quiz App  
 
-A simple and responsive Quiz App built with HTML, CSS, and JavaScript.
-It includes a progress bar, instant answer feedback, and a restart option for a smooth quiz experience.
+An interactive quiz application built using HTML, CSS, and JavaScript with real-time feedback and smooth user experience.
 
-## ✨ Features
+## ⚡ Features  
+- Multiple-choice questions  
+- Instant answer feedback  
+- Progress tracking bar  
+- Restart quiz functionality  
+- Responsive design  
 
-* Interactive quiz questions
-* Correct and wrong answer highlight
-* Progress bar indicator
-* Next question button
-* Restart quiz option
-* Fully responsive design
+## 🛠 Tech Stack  
+HTML5, CSS3, JavaScript  
 
-## 🛠 Tech Stack
+## 🌐 Live Demo  
+https://raju-quiz-app.netlify.app/
 
-* HTML
-* CSS
-* JavaScript
+## 🎯 Purpose  
+Demonstrates JavaScript logic, event handling, and dynamic UI updates in an interactive application.
